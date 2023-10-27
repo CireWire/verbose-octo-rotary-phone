@@ -6,6 +6,10 @@ This is a simple 2D space shooter game built using Unity. The game features a pl
 
 To get started with the game, simply clone the repository and open the project in Unity. The game can be built and run on any platform that Unity supports.
 
+```bash
+git clone https://github.com/CireWire/verbose-octo-rotary-phone.git
+```
+
 ## Code Overview
 
 The codebase is organized into several scripts that handle different aspects of the game. Here's a brief overview of each script:
